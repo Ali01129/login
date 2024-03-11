@@ -1,5 +1,7 @@
 After creating backend folder you have to download package.json to run the server
 
+install mongoose  (npm install mongoose)
+
 db_connect.js file connect the server with mongo db server
 
 in backend folder there are folders
