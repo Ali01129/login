@@ -1,4 +1,5 @@
 After creating backend folder you have to download package.json to run the server
+npm init -y
 
 install mongoose  (npm install mongoose)
 
